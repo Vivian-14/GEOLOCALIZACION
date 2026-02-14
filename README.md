@@ -1,4 +1,10 @@
-# GEOLOCALIZACION
+# GEOLOCALIZACION WEB
+
+
+Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en un mapa interactivo.
+
+
+![Mapa mostrando mi ubicación]()
 
 ------------------------------------
 CREACION DE LA CARPETA DEL PROYECTO
