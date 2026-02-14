@@ -8,6 +8,19 @@ Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en
 
 
 ᴬˡᵒⁿᵈʳᵃ ⱽⁱᵃⁿⁿᵉʸ ᴴᵉʳⁿᵃⁿᵈᵉᶻ ᵀᵒʳʳᵉˢᴳᵀᴵᴰ¹⁵² ⱽⁱ
+
+
+
+------------------------------------
+ ᴛᴇᴄɴᴏʟᴏɢíᴀꜱ ᴜᴛɪʟɪᴢᴀᴅᴀꜱ
+ ------------------------------------
+
+- **Python 3** – lenguaje de programación para el backend  
+- **Flask** – framework web ligero para Python  
+- **HTML, CSS y JavaScript** – frontend y geolocalización  
+- **Leaflet** – librería de JavaScript para mapas interactivos  
+- **OpenStreetMap** – mapas gratuitos  
+- **VS Code** – editor de código 
 ------------------------------------
 ᴄʀᴇᴀᴄɪᴏɴ ᴅᴇ ʟᴀ ᴄᴀʀᴘᴇᴛᴀ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 -----------------------------------
