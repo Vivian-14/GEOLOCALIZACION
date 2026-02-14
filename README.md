@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">𝖦𝖤𝖮𝖫𝖮𝖢𝖠𝖫𝖨𝖹𝖠𝖢𝖨Ó𝖭 𝖶𝖤𝖡</h1>
+<h1 align="center">𝖦𝖤𝖮𝖫𝖮𝖢𝖠𝖫𝖨𝖹𝖠𝖢𝖨Ó𝖭 𝖶𝖤𝖡</h1>
 
-<p style="text-align: center;">
+<p align="center">
 Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en un mapa interactivo.
 </p>
 
@@ -8,7 +8,7 @@ Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en
 ![PRUEBA](https://github.com/Vivian-14/GEOLOCALIZACION/blob/main/pruebas/GEOLOCALIZACION.png)
 
 ------------------------------------
-CREACION DE LA CARPETA DEL PROYECTO
+ᴄʀᴇᴀᴄɪᴏɴ ᴅᴇ ʟᴀ ᴄᴀʀᴘᴇᴛᴀ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 -----------------------------------
 C:\Users\vians>cd Desktop
 
@@ -16,7 +16,7 @@ C:\Users\vians\Desktop>mkdir GeolocalizacionWeb
 
 C:\Users\vians\Desktop>cd GeolocalizacionWeb
 -----------------------------------
-CREACION DE LA ESTRUCTURA
+ᴄʀᴇᴀᴄɪᴏɴ ᴅᴇ ʟᴀ ᴇꜱᴛʀᴜᴄᴛᴜʀᴀ
 -----------------------------------
 C:\Users\vians\Desktop\GeolocalizacionWeb>mkdir templates
 
@@ -29,9 +29,8 @@ C:\Users\vians\Desktop\GeolocalizacionWeb>type nul > templates\index.html
 C:\Users\vians\Desktop\GeolocalizacionWeb>code .
 
 -----------------------------------
-ESTRUCTURA FINAL
+ᴇꜱᴛʀᴜᴄᴛᴜʀᴀ ꜰɪɴᴀʟ
 -----------------------------------
-
 
 GeolocalizacionWeb/
 │
@@ -41,7 +40,7 @@ GeolocalizacionWeb/
 └── static/
 
 -----------------------------------
-ENTORNO VIRTUAL
+ᴇɴᴛᴏʀɴᴏ ᴠɪʀᴛᴜᴀʟ
 -----------------------------------
 
 C:\Users\vians\Desktop\GeolocalizacionWeb>python -m venv venv
@@ -52,7 +51,7 @@ C:\Users\vians\Desktop\GeolocalizacionWeb>venv\Scripts\activate
 
 
 -----------------------------------
-APP.PY
+ᴀᴘᴘ.ᴘʏ
 -----------------------------------
 
 ```python
@@ -73,7 +72,7 @@ if __name__ == "__main__":
 
 ```
 -----------------------------------
-INDEX.HTML
+ɪɴᴅᴇx.ʜᴛᴍʟ
 -----------------------------------
 ```html
 <!DOCTYPE html>
@@ -135,7 +134,7 @@ INDEX.HTML
 </html>
 ```
 -----------------------------------
-CSS
+ᴄꜱꜱ
 -----------------------------------
 ```css
 body {
