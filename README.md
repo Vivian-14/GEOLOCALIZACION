@@ -1,10 +1,11 @@
-# GEOLOCALIZACION WEB
+<h1 style="text-align: center;">𝖦𝖤𝖮𝖫𝖮𝖢𝖠𝖫𝖨𝖹𝖠𝖢𝖨Ó𝖭 𝖶𝖤𝖡</h1>
 
-
+<p style="text-align: center;">
 Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en un mapa interactivo.
+</p>
 
 
-![Mapa mostrando mi ubicación]()
+![PRUEBA](https://github.com/Vivian-14/GEOLOCALIZACION/blob/main/pruebas/GEOLOCALIZACION.png)
 
 ------------------------------------
 CREACION DE LA CARPETA DEL PROYECTO
