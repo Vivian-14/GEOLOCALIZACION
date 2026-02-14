@@ -6,6 +6,8 @@ Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en
 
 ![PRUEBA](https://github.com/Vivian-14/GEOLOCALIZACION/blob/main/pruebas/GEOLOCALIZACION.png)
 
+
+ᴬˡᵒⁿᵈʳᵃ ⱽⁱᵃⁿⁿᵉʸ ᴴᵉʳⁿᵃⁿᵈᵉᶻ ᵀᵒʳʳᵉˢᴳᵀᴵᴰ¹⁵² ⱽⁱ
 ------------------------------------
 ᴄʀᴇᴀᴄɪᴏɴ ᴅᴇ ʟᴀ ᴄᴀʀᴘᴇᴛᴀ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 -----------------------------------
