@@ -4,7 +4,6 @@
 Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en un mapa interactivo.
 </p>
 
-
 ![PRUEBA](https://github.com/Vivian-14/GEOLOCALIZACION/blob/main/pruebas/GEOLOCALIZACION.png)
 
 ------------------------------------
