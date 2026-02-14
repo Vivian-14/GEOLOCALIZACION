@@ -1,5 +1,5 @@
-<h1 align="center">𝖦𝖤𝖮𝖫𝖮𝖢𝖠𝖫𝖨𝖹𝖠𝖢𝖨Ó𝖭 𝖶𝖤𝖡</h1>
-
+<h1 align="center">✮ ═══════𝖦𝖤𝖮𝖫𝖮𝖢𝖠𝖫𝖨𝖹𝖠𝖢𝖨Ó𝖭 𝖶𝖤𝖡═══════ ✮</h1>
+<p align="center">ᓚ₍⑅^..^₎♡
 <p align="center">
 Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en un mapa interactivo.
 </p>
