@@ -9,23 +9,23 @@ Esta aplicación permite obtener la ubicación actual del usuario y mostrarla en
 ------------------------------------
 ᴄʀᴇᴀᴄɪᴏɴ ᴅᴇ ʟᴀ ᴄᴀʀᴘᴇᴛᴀ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 -----------------------------------
-C:\Users\vians>cd Desktop
+>cd Desktop
 
-C:\Users\vians\Desktop>mkdir GeolocalizacionWeb
+>mkdir GeolocalizacionWeb
 
-C:\Users\vians\Desktop>cd GeolocalizacionWeb
+>cd GeolocalizacionWeb
 -----------------------------------
 ᴄʀᴇᴀᴄɪᴏɴ ᴅᴇ ʟᴀ ᴇꜱᴛʀᴜᴄᴛᴜʀᴀ
 -----------------------------------
-C:\Users\vians\Desktop\GeolocalizacionWeb>mkdir templates
+>mkdir templates
 
-C:\Users\vians\Desktop\GeolocalizacionWeb>mkdir static
+>mkdir static
 
-C:\Users\vians\Desktop\GeolocalizacionWeb>type nul > app.py
+>type nul > app.py
 
-C:\Users\vians\Desktop\GeolocalizacionWeb>type nul > templates\index.html
+>type nul > templates\index.html
 
-C:\Users\vians\Desktop\GeolocalizacionWeb>code .
+>code .
 
 -----------------------------------
 ᴇꜱᴛʀᴜᴄᴛᴜʀᴀ ꜰɪɴᴀʟ
@@ -42,11 +42,11 @@ GeolocalizacionWeb/
 ᴇɴᴛᴏʀɴᴏ ᴠɪʀᴛᴜᴀʟ
 -----------------------------------
 
-C:\Users\vians\Desktop\GeolocalizacionWeb>python -m venv venv
+>python -m venv venv
 
-C:\Users\vians\Desktop\GeolocalizacionWeb>venv\Scripts\activate
+>venv\Scripts\activate
 
-(venv) C:\Users\vians\Desktop\GeolocalizacionWeb>pip install flask
+>pip install flask
 
 
 -----------------------------------
